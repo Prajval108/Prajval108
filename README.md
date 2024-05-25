@@ -85,8 +85,5 @@
 </div>
 
 
-
-## Personal Projects
-
 ## Let's Collaborate
 If you're interested in exploring the possibilities of AI and blockchain, or if you'd like to discuss potential collaborations, feel free to reach out to me. I'm always excited to meet like-minded individuals and explore new opportunities.
