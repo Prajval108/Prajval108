@@ -15,6 +15,28 @@ I'm Pankajkumar Baraiya, a seasoned Full-Stack Blockchain Developer passionate a
 * [LinkedIn](https://www.linkedin.com/in/pankaj-baraiya-237606218/)
 * [Twitter](https://x.com/BaraiyaPrajval)
 
+<!-- Socials Links -->
+<h2 align="left">Connect with me🤝</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/pankaj-baraiya-237606218/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/BaraiyaPrajval" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://prajval108.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+  <a href="https://linktr.ee/prajval108" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+  <a href="mailto:pankajbaraiya108@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+
+
 ## Personal Projects
 
 ## Let's Collaborate
