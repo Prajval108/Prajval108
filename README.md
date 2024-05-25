@@ -4,6 +4,14 @@
 <p>I'm Pankajkumar Baraiya, a seasoned Full-Stack Blockchain Developer passionate about exploring the intersection of blockchain and AI technology. With a proven track record of delivering successful projects on leading blockchain platforms like Ethereum, Hyperledger, and Flow, I'm dedicated to harnessing the power of AI and blockchain to create innovative solutions that drive progress and disrupt industries.</p>
 
 
+## Technical Expertise
+* Full Stack Blockchain Development
+* AI Engineering
+* Proficient in TypeScript, Python, Solidity, Golang, and more
+* Experienced in building SaaS products, microservices applications, and design systems
+* Skilled in frontend and backend application structure and architecture
+
+
 <!-- Skills Section -->
 <h2 align="left">Skills</h2>
 
@@ -48,14 +56,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FFA07A.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-
-
-## Technical Expertise
-* Full Stack Blockchain Development
-* AI Engineering
-* Proficient in TypeScript, Python, Solidity, Golang, and more
-* Experienced in building SaaS products, microservices applications, and design systems
-* Skilled in frontend and backend application structure and architecture
 
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
