@@ -49,6 +49,9 @@
 <div>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23FFA07A.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23007BC2.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23FF69B4.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-%23FFC107.svg?style=for-the-badge&logo=qdrant&logoColor=white"/> 
+  <img alt="Vector DB" src="https://img.shields.io/badge/Vector%20DB-%23FF8C00.svg?style=for-the-badge&logo=vectordb&logoColor=white"/>
 </div>
 
 <!-- Tools and Technologies -->
