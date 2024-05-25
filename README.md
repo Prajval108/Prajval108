@@ -10,11 +10,6 @@ I'm Pankajkumar Baraiya, a seasoned Full-Stack Blockchain Developer passionate a
 * Experienced in building SaaS products, microservices applications, and design systems
 * Skilled in frontend and backend application structure and architecture
 
-## Connect with Me
-* [GitHub](https://github.com/Prajval108)
-* [LinkedIn](https://www.linkedin.com/in/pankaj-baraiya-237606218/)
-* [Twitter](https://x.com/BaraiyaPrajval)
-
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
