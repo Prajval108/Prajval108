@@ -29,7 +29,6 @@
 #### Libraries and Frameworks:
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%23FF69B4.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="React-Router" src="https://img.shields.io/badge/React_Router-%23FFC107.svg?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23FF8C00.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next-%23FFA07A.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23FF69B4.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -37,6 +36,9 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23FF8C00.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Chakra" src="https://img.shields.io/badge/chakra-%23FFC107.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img alt="JWT" src="https://img.shields.io/badge/JWT-%23FF69B4.svg?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img alt="Chakra" src="https://img.shields.io/badge/django%23FFC107.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Chakra" src="https://img.shields.io/badge/flask%23FFC107.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+
 </div>
 
 <!-- Databases -->
