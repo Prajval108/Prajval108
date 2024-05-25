@@ -16,7 +16,7 @@
 <h2 align="left">Skills</h2>
 
 <!-- Languages -->
-#### Languages:
+#### Programming Languages:
 <div>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23FFA07A.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%2334A85A.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -26,7 +26,7 @@
 </div>
 
 <!-- Libraries and Frameworks -->
-#### ⛓️Libraries and Frameworks:
+#### Libraries and Frameworks:
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%23FF69B4.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="React-Router" src="https://img.shields.io/badge/React_Router-%23FFC107.svg?style=for-the-badge&logo=react-router&logoColor=white"/>
@@ -40,14 +40,14 @@
 </div>
 
 <!-- Databases -->
-#### 🧵Databases:
+#### Databases:
 <div>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23FFA07A.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23007BC2.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <!-- Tools and Technologies -->
-#### ⚡️Tools and Technologies:
+#### Tools and Technologies:
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git-%23007BC2.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-%23FFC107.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
