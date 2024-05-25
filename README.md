@@ -36,8 +36,11 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23FF8C00.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Chakra" src="https://img.shields.io/badge/chakra-%23FFC107.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img alt="JWT" src="https://img.shields.io/badge/JWT-%23FF69B4.svg?style=for-the-badge&logo=JSON%20web%20tokens"/>
-  <img alt="Chakra" src="https://img.shields.io/badge/django%23FFC107.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Chakra" src="https://img.shields.io/badge/flask%23FFC107.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23FF69B4.svg?style=for-the-badge&logo=django&logoColor=white"/> 
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23FF8C00.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
+  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-%23FFA07A.svg?style=for-the-badge&logo=gradio&logoColor=white"/> 
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FFC107.svg?style=for-the-badge&logo=huggingface&logoColor=white"/> 
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23FF69B4.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 </div>
 
