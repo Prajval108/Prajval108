@@ -1,5 +1,4 @@
 # Hey, I'm Pankajkumar Baraiya
-=====================
 
 ## About Me
 I'm Pankajkumar Baraiya, a seasoned Full-Stack Blockchain Developer passionate about exploring the intersection of blockchain and AI technology. With a proven track record of delivering successful projects on leading blockchain platforms like Ethereum, Hyperledger, and Flow, I'm dedicated to harnessing the power of AI and blockchain to create innovative solutions that drive progress and disrupt industries.
