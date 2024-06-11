@@ -8,7 +8,7 @@
 * Full Stack Blockchain Development
 * AI Engineering
 * Proficient in TypeScript, Python, Solidity, Golang, and more
-* Experienced in building SaaS products, microservices applications, and design systems
+* Experienced in building microservices applications and designing systems
 * Skilled in frontend and backend application structure and architecture
 
 
