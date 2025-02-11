@@ -17,10 +17,13 @@ Pankajkumar Baraiya is a skilled Software Development Engineer with over 2.5 yea
 ## Skills
 
 #### Programming Languages:
+#### Programming Languages:
 <div>
   <img alt="Python" src="https://img.shields.io/badge/python-%23007BC2.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
 
 #### Libraries and Frameworks:
