@@ -1,77 +1,61 @@
 <!-- Short Introduction -->
-<h2 align="left">Hey, I'm Pankajkumar Baraiya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
+<h2 align="left">Welcome to the Profile of Pankajkumar Baraiya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p>I'm Pankajkumar Baraiya, a seasoned Full-Stack Blockchain Developer passionate about exploring the intersection of blockchain and AI technology. With a proven track record of delivering successful projects on leading blockchain platforms like Ethereum, Hyperledger, and Flow, I'm dedicated to harnessing the power of AI and blockchain to create innovative solutions that drive progress and disrupt industries.</p>
+<h3 align="left">SDE2 | AI/ML Engineer & Data Scientist | IIT Madras</h3>
 
+<p>
+Pankajkumar Baraiya is a skilled Software Development Engineer with over 2.5 years of experience delivering advanced AI‐driven solutions and scalable systems. Recognized for designing and implementing machine learning models, natural language processing pipelines, and retrieval‐augmented generation systems that seamlessly integrate large language models into production applications, expertise spans the entire data pipeline—from preprocessing and model development to deployment and optimization. An M.Tech graduate from IIT Madras in Clinical Engineering, this profile reflects a robust technical foundation and a commitment to transforming complex challenges into measurable business improvements.
+</p>
 
 ## Technical Expertise
-* Full Stack Blockchain Development
-* AI Engineering
-* Proficient in TypeScript, Python, Solidity, Golang, and more
-* Experienced in building microservices applications and designing systems
-* Skilled in frontend and backend application structure and architecture
+* AI/ML Engineering & Data Science
+* End-to-end solution development and optimization
+* Proficiency in Python, SQL, and JavaScript
+* Expertise with frameworks such as Django, FastAPI, PyTorch, TensorFlow, HuggingFace, and LangChain
+* Experience deploying scalable applications on AWS with containerization technologies
 
+## Skills
 
-<!-- Skills Section -->
-<h2 align="left">Skills</h2>
-
-<!-- Languages -->
 #### Programming Languages:
 <div>
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23FFA07A.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%2334A85A.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%23007BC2.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Golang" src="https://img.shields.io/badge/go-%2300BFFF.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2358C2B7.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
-<!-- Libraries and Frameworks -->
 #### Libraries and Frameworks:
 <div>
-  <img alt="React" src="https://img.shields.io/badge/react-%23FF69B4.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23FF8C00.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-%23FFA07A.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23FF69B4.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23007BC2.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23FF8C00.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Chakra" src="https://img.shields.io/badge/chakra-%23FFC107.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-%23FF69B4.svg?style=for-the-badge&logo=JSON%20web%20tokens"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-%23FF69B4.svg?style=for-the-badge&logo=django&logoColor=white"/> 
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23FF8C00.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-%23FFA07A.svg?style=for-the-badge&logo=gradio&logoColor=white"/> 
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FFC107.svg?style=for-the-badge&logo=huggingface&logoColor=white"/> 
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23FF69B4.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
-
+  <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-2F2F2F?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge&logo=langchain&logoColor=white"/>
 </div>
 
-<!-- Databases -->
 #### Databases:
 <div>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23FFA07A.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23007BC2.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23FF69B4.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-%23FFC107.svg?style=for-the-badge&logo=qdrant&logoColor=white"/> 
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-2A2A2A?style=for-the-badge&logo=qdrant&logoColor=white"/>
 </div>
 
-<!-- Tools and Technologies -->
 #### Tools and Technologies:
 <div>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23007BC2.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Yarn" src="https://img.shields.io/badge/Yarn-%23FFC107.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23FF69B4.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%23007BC2.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FFA07A.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
-
 <!-- Socials Links -->
-<h2 align="left">Connect with me🤝</h2>
+<h2 align="left">Connect</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/pankaj-baraiya-237606218/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/BaraiyaPrajval" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://prajval108.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
@@ -84,6 +68,5 @@
   </a>
 </div>
 
-
-## Let's Collaborate
-If you're interested in exploring the possibilities of AI and blockchain, or if you'd like to discuss potential collaborations, feel free to reach out to me. I'm always excited to meet like-minded individuals and explore new opportunities.
+## Collaboration
+For inquiries related to AI/ML projects and data science solutions, please reach out through the provided social channels. Open to exploring innovative collaborations and opportunities to drive technological advancement.
